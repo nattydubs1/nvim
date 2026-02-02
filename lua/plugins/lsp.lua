@@ -32,7 +32,7 @@ return {
       },
     })
 
-    -- DevOps servers
+    -- Servers
     for _, server in ipairs({
       "bashls",
       "yamlls",
